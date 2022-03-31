@@ -1,0 +1,15 @@
+C:\projetos-dio\Banco Carrefour\Game.Project\bin\Debug\net6.0\Game.Project.exe
+C:\projetos-dio\Banco Carrefour\Game.Project\bin\Debug\net6.0\Game.Project.deps.json
+C:\projetos-dio\Banco Carrefour\Game.Project\bin\Debug\net6.0\Game.Project.runtimeconfig.json
+C:\projetos-dio\Banco Carrefour\Game.Project\bin\Debug\net6.0\Game.Project.dll
+C:\projetos-dio\Banco Carrefour\Game.Project\bin\Debug\net6.0\Game.Project.pdb
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.csproj.AssemblyReference.cache
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.AssemblyInfoInputs.cache
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.AssemblyInfo.cs
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.csproj.CoreCompileInputs.cache
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.dll
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\refint\Game.Project.dll
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.pdb
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\Game.Project.genruntimeconfig.cache
+C:\projetos-dio\Banco Carrefour\Game.Project\obj\Debug\net6.0\ref\Game.Project.dll
