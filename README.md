@@ -1,3 +1,3 @@
 # *Bootcamp Banco Carrefour Woman Developer*
-**Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#**
-- *Foi utilizado personagens do jogo League of Legends*
+**Abstracting a RPG Game Using Object Oriented with C#**
+- *Characters from the game League of Legends were used*
